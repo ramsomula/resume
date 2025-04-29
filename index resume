@@ -1,0 +1,44 @@
+
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ram's Resume</title>
+</head>
+<body>
+
+  <h1>Ram Reddy Somulas</h1>
+  <h2>Frontend Developer</h2>
+
+  <hr>
+
+  <h3>Summary</h3>
+  <p>Enthusiastic and passionate beginner in Web Development. Strong knowledge of HTML and keen to learn and grow in software industry.</p>
+
+  <h3>Education</h3>
+  <ul>
+    <li>B.Tech - Bharath University, 2021</li>
+    <li>Intermediate - Narayana jr. College, 2017</li>
+  </ul>
+
+  <h3>Skills</h3>
+  <ul>
+    <li>HTML5</li>
+    <li>CSS3 (Basics)</li>
+    <li>GitHub</li>
+    <li>VS Code</li>
+  </ul>
+
+  <h3>Projects</h3>
+  <ul>
+    <li>HTML Resume Website (This Project)</li>
+    <li>Microgreens Farming Website (Pure Grow Project)</li>
+  </ul>
+
+  <h3>Contact</h3>
+  <p>Email: ramreddysomula@gmail.com</p>
+  <p>Phone: +91 7032010648</p>
+  <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+
+</body>
+</html>
